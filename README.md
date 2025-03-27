@@ -5,6 +5,11 @@ Want to learn Golang for DevOps? Follow this roadmap with hands-on tasks and rea
 ## Overview
 This roadmap is designed to help DevOps engineers learn Golang while building practical tools for cloud operations, automation, and Kubernetes.
 
+## Hit the Star! :star:
+
+> [!NOTE]
+> If you are planning to use this repo for reference, please hit the star. Thanks!
+
 ## **Week 1: Golang Basics**
 ### **Goal:** Get comfortable with Go syntax and key features.
 - ✅ Install Go and set up your environment
